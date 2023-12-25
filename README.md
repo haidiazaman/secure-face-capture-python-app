@@ -12,4 +12,8 @@ This is the codebase for my project to summarise my learnings and work done duri
 [Note: The models deployed on the Androied app were not trained on images from the Gojek database due to privacy issues. I mined data from separate sources from the web and trained on that.] 
 
 
+
+# Python demo app for Gojek Hackathon
 ![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_left_eye_blocked.gif)
+![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_right_eye_blocked.gif)
+![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_mouth_blocked.gif)

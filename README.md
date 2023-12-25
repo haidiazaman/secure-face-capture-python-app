@@ -1,5 +1,3 @@
-# secure-face-capture-app
-
 # Python demo app for Gojek Hackathon
 ![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_right_eye_blocked.gif)
 ![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_left_eye_blocked.gif)

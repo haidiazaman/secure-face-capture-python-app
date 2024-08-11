@@ -1,0 +1,23 @@
+input_data_folder: "/home/jovyan/data/aurora/ISO_L2_eye_mouth_blink/eye/data/v3.3/v3.3.0_trainval.csv"  
+output_folder: "/home/jovyan/data/aurora/ISO_L2_eye_mouth_blink/eye/train/result/v3.3.4.1"
+model_key: "mobilenetv3_small_050"
+balance: "True"
+preload: "True"
+load_model: "v3.0.17.9/epoch079.pt" 
+num_classes: 3
+num_workers: 16
+seed: 1
+lr: 0.00001
+batch_size: 128
+epochs: 1000
+# class_weights: "[0.485890,0.783427,0.730683]"
+
+input_dim: 80
+weight_decay: 0.0005
+T_max: 10
+# first_cycle_steps: 25
+# cycle_mult: 3.5
+# max_lr: 0.00005
+# min_lr: 0.0000001
+# warmup_steps: 7
+# gamma: 0.5

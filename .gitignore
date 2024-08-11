@@ -81,6 +81,7 @@ target/
 # ipython/jupyter notebooks
 # *.ipynb
 **/.ipynb_checkpoints/
+rnn-lstm-gru-2.ipynb
 
 # IPython
 profile_default/
@@ -174,7 +175,6 @@ poetry.toml
 pyrightconfig.json
 
 # project directories
-/data/*
 **/.DS_Store
 
 # pytorch/python/numpy formats
@@ -183,3 +183,8 @@ pyrightconfig.json
 *.npy
 *.ts
 model_ts*.txt
+
+# Upernet data
+src/upernet/data/ADEChallengeData2016
+
+temp.csv

@@ -1,7 +1,5 @@
 # Python demo app for Gojek Hackathon
-![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_right_eye_blocked.gif)
-![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_left_eye_blocked.gif)
-![alt text](https://github.com/haidiazaman/secure-face-capture-app/blob/main/gifs/gojek_hackathon_gifs/gojek_hackathon_mouth_blocked.gif)
+View the demo using this link: https://drive.google.com/drive/folders/1P73Dhn_2g_7a7kMbua8SP0smXhi9BuKV?usp=sharing
 
 # Background / Objective
 This app was developed during a 1 day company hackathon during my internship in Gojek / Goto Financial. The purpose of this app is to ensure that users are able to take a good quality selfie. Companies around the world have a selfie-capture as part of their onboarding process, face verification process, etc. Most of these selfie capture processes do not include checks to ensure certain potential issues like users wearing a mask, portion of face blocked, etc. This leads to issues like inappropriate images for usage in other models further down the pipeline, waste of storage resources of invalid images etc. As such, I trained 2 separate models, an eye blink model and a mouth block identification model to be able to detect if these regions of the face is blocked. This will then indicate to the user to retake their selfie and inform them of the error (which part of the face is blocked).

@@ -1,4 +1,8 @@
 ### Python ###
+
+# dont include the datasets in git commits
+datasets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

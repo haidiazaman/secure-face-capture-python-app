@@ -1,6 +1,6 @@
 # Python demo app for Gojek Hackathon
 * Left eye blocked
-![alt text](https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/left_eye_blocked.jpg)
+<img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/left_eye_blocked.jpg" alt="Left eye blocked" width="400"/>
 * Right eye blocked
 ![alt text](https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/right_eye_blocked.jpg)
 * Mouth blocked

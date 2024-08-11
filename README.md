@@ -1,4 +1,12 @@
 # Python demo app for Gojek Hackathon
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/left_eye_blocked.jpg" alt="Left eye blocked" width="250"/>
+    <img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/right_eye_blocked.jpg" alt="Right eye blocked" width="250"/>
+    <img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/mouth_blocked.jpg" alt="Mouth blocked" width="250"/>
+</div>
+
+
 * Left eye blocked
 <img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/left_eye_blocked.jpg" alt="Left eye blocked" width="250"/>
 <img src="https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/right_eye_blocked.jpg" alt="Right eye blocked" width="250"/>

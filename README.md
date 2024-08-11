@@ -1,4 +1,11 @@
 # Python demo app for Gojek Hackathon
+* Left eye blocked
+![alt text](https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/left_eye_blocked.jpg)
+* Right eye blocked
+![alt text](https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/right_eye_blocked.jpg)
+* Mouth blocked
+![alt text](https://github.com/haidiazaman/secure-face-capture-python-app/blob/main/imgs/mouth_blocked.jpg)
+
 View the demo using this link: https://drive.google.com/drive/folders/1P73Dhn_2g_7a7kMbua8SP0smXhi9BuKV?usp=sharing
 
 # Background / Objective
